@@ -1,0 +1,14 @@
+{
+  "name": "js-laz",
+  "version": "0.0.1",
+  "description": "\"Experimental LAZ file handling in JS\"",
+  "main": "reader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "LGPL",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
